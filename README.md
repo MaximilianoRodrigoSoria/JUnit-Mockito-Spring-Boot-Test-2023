@@ -23,8 +23,7 @@
 
 ### ⭐ Curso de Udemy
 
-El curso de Udemy es **Guía Completa JUnit y Mockito incluye Spring Boot Test 2023
-** 
+El curso de Udemy es **Guía Completa JUnit y Mockito incluye Spring Boot Test 2023** 
 
 
 Link: https://www.udemy.com/course/curso-completo-junit-mockito-spring-boot-test
