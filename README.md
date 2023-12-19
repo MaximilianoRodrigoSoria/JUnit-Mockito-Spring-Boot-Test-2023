@@ -16,11 +16,11 @@
 ---
 ### ⭐ Tabla de proyecto
 
-| Proyecto                     | Descripción                                    |
-|------------------------------|------------------------------------------------|
-| [Junit 5](/junit5/README.MD) | Pruebas usando Junit 5                         |
-| [Mockito](/mockito_app/README.MD)      | Pruebas usando Mockito, mock, verifys, asserts |
-| [Junit 5](/springboot_test/README.MD)  | Pruebas usando Spring Boot Test                |
+| Proyecto                              | Descripción                                    |
+|---------------------------------------|------------------------------------------------|
+| [Junit 5](/junit5/README.md)          | Pruebas usando Junit 5                         |
+| [Mockito](/mockito_app/README.md)     | Pruebas usando Mockito, mock, verifys, asserts |
+| [Junit 5](/springboot_test/README.md) | Pruebas usando Spring Boot Test                |
 
 ### ⭐ Curso de Udemy
 
