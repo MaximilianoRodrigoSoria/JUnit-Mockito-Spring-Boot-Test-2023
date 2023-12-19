@@ -79,11 +79,5 @@ Finalmente como complemento y anexo, aprenderemos a consumir y probar nuestros s
 > 💼 **Linkedin:** [SoriaMaximilianoRodrigo](https://www.linkedin.com/in/soriamaximilianorodrigo/)
 >
 > 💬 **Chat:**  [Inicia un chat](https://wa.me/1127043256)
-
-
-
-
-
-
-
-
+>
+> 📝 **CV:** [Link](https://www.canva.com/design/DAFxIt0xaNQ/tKTSodPQyHett1abRieMyw/view?utm_content=DAFxIt0xaNQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
